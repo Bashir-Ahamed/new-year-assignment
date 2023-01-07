@@ -66,3 +66,94 @@
   border-radius: 5px;
   color: white;
 }
+/********** My failures of previous year *********/
+
+section.about {
+  display: flex;
+  margin-top: 100px;
+}
+.img-text .failures {
+  font-size: 40px;
+  font-weight: 900;
+}
+main {
+  margin: 0 auto;
+  max-width: 1160px;
+}
+
+.img-text p {
+  color: black;
+  margin: 20px 0;
+  line-height: 25px;
+}
+
+.img-text {
+  padding: 18% 8%;
+}
+
+ul.list li {
+  list-style: none;
+  margin-bottom: 12px;
+}
+
+ul.list li i {
+  color: #16d887;
+  margin-right: 8px;
+}
+
+/******* My Plans Section Design **********/
+
+section.my-plans {
+  margin: 100px 0;
+  font-weight: 900;
+  font-size: xx-large;
+}
+
+.my-plans-item {
+  display: flex;
+  text-align: center;
+  gap: 12.4%;
+  margin-top: 60px;
+}
+
+.my-plans h2 {
+  text-align: center;
+}
+
+.item h3 {
+  font-size: 26px;
+  margin-top: 14px;
+}
+
+.item h4 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #737272;
+  margin-top: 8px;
+}
+
+/************* Image gradient Section Start *************/
+
+.image-gradient-container {
+  background-image: url(../images/gradient2.png), url(../images/watch.png);
+  height: 200px;
+  width: 70%;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-size: cover;
+}
+.image-gradient-title {
+  font-weight: 700;
+  font-size: 35px;
+  color: white;
+  padding: 40px 40px 20px;
+}
+.btn-contact-1 {
+  padding: 10px 15px;
+  border: none;
+  color: orangered;
+  margin: 0px 40px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+/************* Image gradient Section End *************/
