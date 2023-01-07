@@ -202,6 +202,9 @@ input[type="email"] {
   padding: 10px 15px;
   background-color: rgb(167, 48, 5);
   border: none;
+  border-radius: 5px;
+  color: white;
+  margin: 10px 0px;
 }
 
 /******************* Footer section End ******************/
