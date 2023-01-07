@@ -157,3 +157,43 @@ section.my-plans {
   border-radius: 5px;
 }
 /************* Image gradient Section End *************/
+
+/******************* Footer section ******************/
+footer {
+  background-color: #151414;
+  padding: 130px 230px;
+  display: flex;
+  margin-top: 50px;
+  color: #ffffff;
+}
+
+.footer-left h2 {
+  color: #ffffff;
+  margin-bottom: 12px;
+}
+
+.footer-left p {
+  width: 55%;
+}
+
+.contact-info {
+  margin: 20px 0;
+}
+
+.social img {
+  width: 36px;
+  margin-right: 8px;
+}
+
+.newslatter h3 {
+  color: #ffffff;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+input[type="email"] {
+  background: transparent;
+  padding: 18px 100px 18px 18px;
+  border: 1px solid #fae0e0;
+  border-radius: 6px;
+}
